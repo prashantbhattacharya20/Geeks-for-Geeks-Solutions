@@ -1,6 +1,6 @@
-# Coding-Platform-Questions
+# Geeks-for-Geeks-Solutions
 
-This repository contains a collection of programming questions that I have solved on [LeetCode](https://leetcode.com/prashant_bhattacharya/) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/prashant_bhattacharya). The solutions are written in Java.
+This repository contains a collection of programming questions that I have solved on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/prashant_bhattacharya). The solutions are written in Java.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -9,7 +9,7 @@ This repository contains a collection of programming questions that I have solve
 - [Contact](#contact)
 
 ## Introduction
-The questions are organized by platform and problem number. Each folder corresponds to a single question, and contains the following files:
+The questions are organized by difficulty level and problem name. Each folder corresponds to a single question inside each folder of respective difficulty level, and contains the following files:
 
 * **README.md**: Contains the problem statement and sample test cases and the expected output.
 * Problem_Number-Problem_Name.<language-extension>: Contains the code implementation of the solution in the specified language.
